@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 What a great day! Hi, I'm 'Juhae Choi', just call me 'joon'😄
 
