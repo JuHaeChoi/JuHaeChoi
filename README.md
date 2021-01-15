@@ -23,6 +23,8 @@ I'm intersted in Back-end(Web, JAVA) and Robotic Process Automation(RPA, Uipath)
 
 ### 👯 Extracurricular Activities
 
+Linked In : https://www.linkedin.com/in/juhae-choi-675720182/
+
 <!--
 **JuHaeChoi/JuHaeChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
