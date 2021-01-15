@@ -1,7 +1,40 @@
 ### Hi there 👋
 
+What a great day! Hi, I'm 'Juhae Choi', just call me 'joon'😄
+
+I'm intersted in Back-end(Web, JAVA) and Robotic Process Automation(RPA, Uipath)
+
+- Major : Management Infomation System(MIS)
+
+- Linked Major : Process Automation Management(RPA)
+
+
+### ⚡ Field practice Experience
+
+#### Small And Medium Businesses Automation(SAMBA Project)
+
+- Automation of the work of the Beauty Max(Cosmetics Manufacturer) Quality Management Team - InfraSystem(Seoul, 2020)
+
+- Automation of the work of the Beauty Max(Cosmetics Manufacturer) R&D Team - InfraSystem(Seoul, 2020)
+
+#### Automation of administrative affairs in schools
+
+- Automation of Graduation Situation of Myongji University_Future Convergence University - Aekyung Innovation Services(Seoul, 2020)
+
+### 👯 Extracurricular Activities
+
 <!--
 **JuHaeChoi/JuHaeChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
