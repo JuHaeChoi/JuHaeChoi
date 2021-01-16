@@ -1,8 +1,6 @@
 ### 👋 Hi there 
 
-What a great day! Hi, I'm 'Juhae Choi', just call me 'joon'😄
-
-I'm intersted in Back-end(Web, JAVA) and Robotic Process Automation(RPA, Uipath)
+What a great day! Hi, I'm 'Juhae Choi' who intersted in Back-end(Web, JAVA) and Robotic Process Automation(RPA, Uipath)
 
 - Major : Management Infomation System(MIS)
 
