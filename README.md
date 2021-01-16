@@ -6,7 +6,7 @@ I'm intersted in Back-end(Web, JAVA) and Robotic Process Automation(RPA, Uipath)
 
 - Major : Management Infomation System(MIS)
 
-- Linked Major : Process Automation Management(RPA)
+- Linked Major : Process Automation Management
 
 
 ### ⚡ Field practice Experience
