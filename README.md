@@ -15,7 +15,7 @@ What a great day! Hi, I'm 'Juhae Choi' who intersted in Web Dev and Robotic Proc
 
 - RPA | Automation of the work of the Beauty Max(Cosmetics Manufacturer) R&D Team - InfraSystem(Seoul, 2020)
 
-#### Automation of administrative affairs in schools
+#### Automation of administrative affairs in MyongJi University
 
 - RPA | Automation of Graduation Situation of Myongji University_Future Convergence University - Aekyung Innovation Services(Seoul, 2020)
 
