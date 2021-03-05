@@ -11,13 +11,17 @@ What a great day! Hi, I'm 'Juhae Choi' who intersted in Web Dev and Robotic Proc
 
 #### Small And Medium Businesses Automation(SAMBA Project)
 
-- RPA | Automation of the work of the Beauty Max(Cosmetics Manufacturer) Quality Management Team - InfraSystem(Seoul, 2020)
+- RPA | Automation of the work of the Beauty Max(Cosmetics Manufacturer) Quality Management Team - Get coached by 'InfraSystem'(Seoul Yeongdeungpo, 2020)
 
-- RPA | Automation of the work of the Beauty Max(Cosmetics Manufacturer) R&D Team - InfraSystem(Seoul, 2020)
+- RPA | Automation of the work of the Beauty Max(Cosmetics Manufacturer) R&D Team - Get coached by 'InfraSystem'(Seoul Yeongdeungpo, 2020)
 
 #### Automation of Graduation assessment in MyongJi University
 
-- RPA | Automation of Graduation assessment of Myongji University_Future Convergence University - Aekyung Innovation Services(Seoul, 2020)
+- RPA | Automation of Graduation assessment of Myongji University_Future Convergence University - Get coached by 'Aekyung Innovation Services'(Seoul Mapo, 2020)
+
+#### Internship
+
+- RPA | Internship in 'Dex_Consulting' (Seoul Gangnam, 2021.03 ~ )
 
 ### 👯 Extracurricular Activities
 
