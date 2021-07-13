@@ -19,7 +19,7 @@ What a great day! Hi, I'm 'Juhae Choi' who intersted in Web Dev and Robotic Proc
 
 #### Internship
 
-- RPA | Credit-Linked Internship in 'Dex_Consulting' (Seoul Gangnam, 2021.03.02 ~ 2021.08.31)
+- RPA | Credit-Linked Internship in 'Dex_Consulting' (Seoul Gangnam, 2021.03.02 ~ 2021.07.13)
 
 
 ### 👯 Extracurricular Activities
